@@ -3,8 +3,6 @@
 """
 Goldsrc ResGrab by Goodbay - Extract resources from .bsp files
 Extract all resources (models, textures, sounds) from a .bsp file
-
-Author: Optimized for better readability and maintainability
 """
 
 import os
