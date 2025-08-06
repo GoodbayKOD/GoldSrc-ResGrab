@@ -12,7 +12,6 @@ ResGrab is a Python tool that automates the process of extracting resources (mod
 - ✅ **Automatic generation** of `.res` files using `resgen.exe`
 - ✅ **File organization** in structured directories
 - ✅ **Robust error handling** with detailed feedback
-- ✅ **AMX Mod X naming** for developers familiar with plugins
 - ✅ **Object-oriented programming** for better maintenance
 - ✅ **Type hints** for better code documentation
 
