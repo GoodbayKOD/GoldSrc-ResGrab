@@ -163,13 +163,6 @@ Path to resgen.exe: C:\tools\resgen.exe
 
 ## 🔧 Technical Features
 
-### AMX Mod X Naming
-The script uses naming conventions similar to AMX Mod X plugins:
-- `sz` = String (text strings)
-- `g_` = Global (global variables)
-- `i` = Integer (integer numbers)
-- `f` = Float (decimal numbers)
-
 ### Code Structure
 - **ResourceExtractor class**: Handles all extraction logic
 - **Modular methods**: Each function has a specific responsibility
@@ -179,22 +172,4 @@ The script uses naming conventions similar to AMX Mod X plugins:
 ## 📝 License
 
 This project is under the MIT license. See the LICENSE file for more details.
-
-## 🤝 Contributing
-
-Contributions are welcome. Please:
-
-1. Fork the repository
-2. Create a branch for your feature (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📞 Support
-
-If you have problems or questions:
-- Open an issue on GitHub
-- Check the "Troubleshooting" section
-- Verify that you have all requirements installed
-
 ---
