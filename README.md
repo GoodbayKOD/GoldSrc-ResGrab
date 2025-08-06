@@ -45,7 +45,7 @@ python --version
 # Should show Python 3.6 or higher
 ```
 
-### 3. Get resgen.exe:
+### 3. Get resgen.exe: (https://gamebanana.com/tools/4777)
 - Download `resgen.exe` from GoldSrc development tools
 - Place it in an accessible location (e.g., `C:\tools\resgen.exe`)
 
